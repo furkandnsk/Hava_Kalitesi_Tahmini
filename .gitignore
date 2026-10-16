@@ -1,0 +1,15 @@
+# Python & Sanal Ortamlar
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Jupyter Notebook Yedekleri
+.ipynb_checkpoints/
+
+# Veri Dosyaları
+*.csv
+
+# Editör Ayarları
+.vscode/
+.idea/
